@@ -1,0 +1,39 @@
+.maintxt {
+    background-image: url(../images/hero_image.png);
+    background-size: cover;
+}
+
+.description {
+    padding: 8%;
+    display: flex;
+    background-color: #F2ECE4;
+}
+
+.description-child{
+    justify-content:center;
+}
+
+.nav{
+    background-color: #F2ECE4;
+}
+.card-background{
+    background-color: #2A666C;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.item-background-2{
+    background-color: #F2ECE4;
+}
+.item-background{
+    background-color: #C1D8D7;
+}
+
+.description3{
+    padding-top: 2%;
+    padding-right: 8%;
+    padding-left: 8%;
+    padding-bottom: 2%;
+    background-color: #2A666C;
+    color:#F2ECE4;
+}
